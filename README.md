@@ -25,6 +25,6 @@ Run this command to execute the application:
 - [ ] Heatherro...
 - [ ] Heartherooo..
 
-Here is my footnote[^1]
+Here is my footnote[^1].
 
-[^1] A referenc/??
+[^1]: A referenc/??.
