@@ -20,7 +20,7 @@ Run this command to execute the application:
 
 
 # Tasks At Hand
-- [] **Dance Till You're Dead**
+- [ ] **Dance Till You're Dead**
 - [x] _Off,Off, with your head!_
 - [ ] Heatherro...
 - [ ] Heartherooo..
