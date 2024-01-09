@@ -1,2 +1,2 @@
 name = input("Hi! What's your name!")
-print(f'Welcome {name}, how old are you?')
+age = input(f'Welcome {name}, how old are you?')
