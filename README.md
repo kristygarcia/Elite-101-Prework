@@ -24,3 +24,7 @@ Run this command to execute the application:
 - [x] _Off,Off, with your head!_
 - [ ] Heatherro...
 - [ ] Heartherooo..
+
+Here is my footnote[^1]
+
+[^1] A referenc/??
