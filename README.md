@@ -28,3 +28,6 @@ Run this command to execute the application:
 Here is my footnote[^1].
 
 [^1]: A referenc/??.
+
+>[!NOTE]
+>Hello!
